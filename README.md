@@ -26,7 +26,7 @@ Esta es una calculadora simple desarrollada con HTML, CSS y JavaScript. La calcu
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/calculadora-web.git
+    git clone https://github.com/Dexne/Basic-Calculator-Web.git
     ```
 
 2. Navega al directorio del proyecto:
@@ -51,15 +51,15 @@ calculadora-web/
 │
 ├── css/
 │   └── style.css
-├── screenshots/
-│   ├── light_theme.png
-│   └── dark_theme.png
+├── assets/
+│   ├── tema-claro.png
+│   └── tema-oscuro.png
 ├── index.html
 └── script.js
 ```
 
 - `css/style.css`: Contiene los estilos para la calculadora.
-- `screenshots/`: Contiene capturas de pantalla de los temas claro y oscuro.
+- `assets/`: Contiene capturas de pantalla de los temas claro y oscuro.
 - `index.html`: Archivo principal de la calculadora.
 - `script.js`: Contiene la lógica de la calculadora.
 
