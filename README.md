@@ -1,6 +1,7 @@
-Aquí tienes el contenido para u
 
 # Calculadora Web
+
+**By: Dexne**
 
 Una calculadora simple con la capacidad de cambiar entre temas claro y oscuro.
 
@@ -30,7 +31,7 @@ Esta es una calculadora simple desarrollada con HTML, CSS y JavaScript. La calcu
 
 2. Navega al directorio del proyecto:
     ```sh
-    cd calculadora-web
+    cd 1 CALCULADORA
     ```
 
 3. Abre `index.html` en tu navegador web preferido o ingresa al siguiente link para probarla: https://calculadora-dexne.netlify.app/
