@@ -19,8 +19,9 @@ Esta es una calculadora simple desarrollada con HTML, CSS y JavaScript. La calcu
 
 ## Capturas de Pantalla
 
-![Tema Claro](..\assets\tema-claro.png)
-![Tema Oscuro](..\assets\tema-oscuro.png))
+![Tema Claro](https://github.com/Dexne/Basic-Calculator-Web/blob/main/assets/tema-claro.png)
+
+![Tema Oscuro](https://github.com/Dexne/Basic-Calculator-Web/blob/main/assets/tema-oscuro.png)
 
 ## Instalación
 
